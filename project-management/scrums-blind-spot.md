@@ -5,7 +5,7 @@ status: draft
 
 # Scrum's Main Blind Spot
 
-I have a mixed emotions about Scrum. I felt extreme enthusiasm when I first learned about it. When I read "Scrum: The Art of Doing Twice the Work in Half the Time" I was ready to mark it as the best non-fiction book I've ever read. But then the reality came in. In the last years, every development team I've been a part of claimed to be practicing Scrum. Yet, virtually every Scrum event I've witnessed was ridiculously different from what I expected.
+I have mixed emotions about Scrum. I felt extreme enthusiasm when I first learned about it. When I read "Scrum: The Art of Doing Twice the Work in Half the Time" I was ready to mark it as the best non-fiction book I've ever read. But then the reality came in. In the last years, every development team I've been a part of claimed to be practicing Scrum. Yet, virtually every Scrum event I've witnessed was ridiculously different from what I expected.
 
 Well, blaming that on people gives me the "this is not real communism" vibes. However, criticizing a methodology for something that is not part of it or even contradicts it seems like strawmanning. There is one thing though, that the actual Scrum guide approaches inadequately, in my taste. 
 
