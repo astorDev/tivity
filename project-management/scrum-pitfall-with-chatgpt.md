@@ -12,19 +12,22 @@ During my career, I've been finding myself in a team that tries to practice Scru
 
 ## The Overlooked Aspect
 
-I would give it a harsher name.
+I would probably give the situation a harsher name. "Overlooked" seems too apologetic. Anyway, the introduction is generally valid. So, let's just move on to a more substantial part.
 
 ![Intro](scrum-piffall-intro.png)
 
 ## No Time for Grooming
 
 This title is too soft, too. Time for grooming is not just insufficient it is simply not existing.
+Still the text paragraph is right on point. The following numbered list are not so precise, sadly: "Last-Minute Scrambles" seems to be a concrete example of "Inadequate Preparation", "Technical Debt" hardly can be attributed to poor Sprint Planning and I don't like the term in general. 
+
+Instead of the numbered list, I would add the problem, that teams rarely has a "reject" button. Meaning that even if team don't "rush through backlog item", thoroughly investigate them, and find the backlog items missing clarity, self-conflicting, or simply poorly defined, the team still doesn't have any procedure to deal with that. In my experience this results in some team member concluding that although backlog items are poorly defined we still need to move on somehow, which, in my estimate, minigates the purpose of grooming in general.
 
 ![Section about grooming](scrum-pitfall-grooming.png)
 
 ## Abandoning Decomposition
 
-This title is right on point. And the points are exactly correct, too. However, they suffer from being too soft, again. Teams not **may**, but **will** struggle to provide accurate estimates. Poorly decomposed tasks **will** result in ~~integration~~ challenges. And it **will** impact code quality.
+Here, the initial title works almost as good as the updated. The points made are also surpisingly precise. There's just one word I want to add. The word is "will". Teams not **may**, but **will** struggle to provide accurate estimates. Poorly decomposed tasks **will** result in ~~integration~~ challenges. And neglect of technical decomposition **will** impact code quality. Besides that, good section:
 
 ![Neglect of Technical Decomposition](scrum-neglect-of-technical-decomposition.png)
 
