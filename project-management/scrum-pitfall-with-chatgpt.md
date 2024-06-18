@@ -6,7 +6,7 @@ preview: I've been stuck writing an article about Scrum. So I asked ChatGPT
 
 # Talking Scrum Main Pitfall with ChatGPT
 
-During my career, I've been finding myself in a team that tries to practice Scrum to a certain degree quite a lot of time. Each team has its own set of challenges, open questions, and discussed answers. One particular topic, however, kept appearing in every team. Finally, I've decided to express my thoughts about the topic in an article. Discouragingly, I couldn't come up with a proper structure and the exact points I wanted to make. How would ChatGPT structure that? I asked myself. So, this was the prompt I gave it:
+During my career, I've been finding myself in a team that tries to practice Scrum to a certain degree quite a lot of time. Each team had its own set of challenges, open questions, and discussed answers. One particular topic, however, kept appearing in every team. Finally, I've decided to express my thoughts about the topic in an article. Discouragingly, I couldn't come up with a proper structure and the exact points I wanted to make. How would ChatGPT structure that? I asked myself. So, this was the prompt I gave it:
 
 ![The initial prompt](scrum-pitfall-with-chatgpt-thumb.png)
 
