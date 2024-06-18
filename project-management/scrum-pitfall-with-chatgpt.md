@@ -18,16 +18,15 @@ I would probably give the situation a harsher name. "Overlooked" seems too apolo
 
 ## No Time for Grooming
 
-This title is too soft, too. Time for grooming is not just insufficient it is simply not existing.
-Still the text paragraph is right on point. The following numbered list are not so precise, sadly: "Last-Minute Scrambles" seems to be a concrete example of "Inadequate Preparation", "Technical Debt" hardly can be attributed to poor Sprint Planning and I don't like the term in general. 
+This title is too soft, too. Time for grooming is not just insufficient it is simply not existing. Still, the text paragraph is right on point. The following numbered list is not so precise, sadly: "Last-Minute Scrambles" seems to be a concrete example of "Inadequate Preparation", "Technical Debt" hardly can be attributed to poor Sprint Planning and I don't like the term in general. 
 
-Instead of the numbered list, I would add the problem, that teams rarely has a "reject" button. Meaning that even if team don't "rush through backlog item", thoroughly investigate them, and find the backlog items missing clarity, self-conflicting, or simply poorly defined, the team still doesn't have any procedure to deal with that. In my experience this results in some team member concluding that although backlog items are poorly defined we still need to move on somehow, which, in my estimate, minigates the purpose of grooming in general.
+Instead of the numbered list, I would add the problem, that teams rarely have a "reject" button. This means that even if a team doesn't "rush through backlog items", thoroughly investigate them, and find the backlog items missing clarity, self-conflicting, or simply poorly defined, the team still doesn't have any procedure to deal with that. In my experience this results in a team member concluding that although backlog items are poorly defined we still need to move on somehow. This argument, in my estimate, mitigates the purpose of grooming in general.
 
 ![Section about grooming](scrum-pitfall-grooming.png)
 
 ## Abandoning Decomposition
 
-Here, the initial title works almost as good as the updated. The points made are also surpisingly precise. There's just one word I want to add. The word is "will". Teams not **may**, but **will** struggle to provide accurate estimates. Poorly decomposed tasks **will** result in ~~integration~~ challenges. And neglect of technical decomposition **will** impact code quality. Besides that, good section:
+Here, the initial title works almost as well as the updated one. The points made are also surprisingly precise. There's just one word I want to add. The word is "will". Teams not **may**, but **will** struggle to provide accurate estimates. Poorly decomposed tasks **will** result in ~~integration~~ challenges. Finally, neglect of technical decomposition **will** impact code quality. Besides that, a good section:
 
 ![Neglect of Technical Decomposition](scrum-neglect-of-technical-decomposition.png)
 
