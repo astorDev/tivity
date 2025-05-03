@@ -3,14 +3,14 @@ poll:
     question: "AD in ADHD is:"
     answers:
         - "Lack of attention from parents"
-        - "Inability to Keep an Attention"
+        - "Inability to Keep Attention"
 ---
 
 # Do you know what Attention Deficit in ADHD means? 🤔
 
 > Well, I Did Not! 🤯
 
-I always thought Attention Deficit in ADHD meant that a child with ADHD lacks attention from parents or people in general. It turned out it is not about that at all! In reality it means that the children with ADHD lack their **own** attention.
+I always thought Attention Deficit in ADHD meant that a child with ADHD lacks attention from parents or people in general. It turned out it is not about that at all! In reality, it means that the children with ADHD lack their **own** attention.
 
 For me, this opened a whole new perspective on the condition! It also feels somewhat paradoxical that a hyperactive person is the one lacking attention. This becomes clearer when we replace attention with focus. Maybe it would be clearer if ADHD were called Focus Deficit instead...
 
